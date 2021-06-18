@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdbef45081d6ea745bc1eaced5f1439e, type: 3}
+  m_Name: Oleada(4)
+  m_EditorClassIdentifier: 
+  enemigo: {fileID: 8369590608779548854, guid: d40f8aca756a46d448d85ed5545bc6bf, type: 3}
+  camino: {fileID: 4724745749789726384, guid: c349bfe7fdf0fff41b6ca63f2109dd58, type: 3}
+  velocidadAparicion: 0.5
+  aparicionesaleatorias: 0.3
+  numeroDeEnemigos: 6
+  velocidadEnemigo: 5
